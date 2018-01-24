@@ -30,11 +30,15 @@ P.S. Here’s my top 10 products (in random order):
 
 1. Evernote
 2. Medium
-Adobe Illustrator
-The iPhone 4
-The fine ballpoint pen
-The whiteboard
-The MacBook
-Linux
-The Baby Soother
-FitBit
+3. Adobe Illustrator
+4. The iPhone 4
+5. The fine ballpoint pen
+6. The whiteboard
+7. The MacBook
+8. Linux
+9. The Baby Soother
+10. FitBit
+
+What does your Top 10 look like?
+
+Even more crucially, what does your roadmap look like? Can you make it time travel?
